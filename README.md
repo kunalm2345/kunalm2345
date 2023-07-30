@@ -1,4 +1,4 @@
-# Hey, I'm Kunal Mushra. 
+# Hey, I'm Kunal Mishra. 
 ### I'm just starting out on my indie-hacking adventure with twift.xyz and socialscri.be
 
 - React me on Twiter at @knlmsh and on email at kunalm@duck.com
